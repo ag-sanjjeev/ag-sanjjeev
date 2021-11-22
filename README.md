@@ -54,4 +54,18 @@ Skills:
 	<img width ='50px' src ='/images/mysql-logo.png'> 
 </a>
 
+<a href='https://github.com/ag-sanjjeev'>
+	<img width ='50px' src ='/images/git-logo.png'> 
+</a>
+
+
 <br>
+
+
+[![Sanjjeev's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ag-sanjjeev&theme=light)](https://github.com/ag-sanjjeev/)
+
+| ![Sanjjeev's github stats](https://github-readme-stats.vercel.app/api?username=ag-sanjjeev&show_icons=true&theme=light) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ag-sanjjeev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=light) |
+| --- | --- |
+| ![Sanjjeev GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ag-sanjjeev&theme=lighj)
+| ![Top Programmings](https://github-readme-stats.vercel.app/api/top-langs/?username=ag-sanjjeev&theme=light) |
+
