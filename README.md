@@ -55,5 +55,3 @@ Skills:
 </a>
 
 <br>
-
-<script src='main.js' \></script\>
