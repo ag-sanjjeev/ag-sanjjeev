@@ -14,7 +14,7 @@
 About me:
 
 - 🔭 I’m currently working on ... designing ui kits,
-- 🌱 I’m currently learning ... React Native, Sass, Git and so on.,
+- 🌱 I’m currently learning ... Angular, C#, ASP.NET, Git and so on.,
 - 👯 I’m looking to collaborate on UI/UX PHP web developement and so on., 
 - 🤔 I’m looking for help with cross-plotform app developement.,
 - 💬 Ask me about ... Front end designing and PHP.,
