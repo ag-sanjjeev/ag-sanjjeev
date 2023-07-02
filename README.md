@@ -1,71 +1,27 @@
-### Hi there 👋
 
-<h1 align="center" style="text-align: center;">
-  ✨  I'm Sanjjeev, ✨  
-</h1>
+<h1 align="center">Hi :), I'm Sanjjeev</h1>
 
-<p align="center" style="text-align: center;">
-  Creative <b><ins>UI/UX Designer</ins></b> and Well Stuffed <b><ins>PHP Developer</ins></b>
-</p>
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ag-sanjjeev)
-[![Github](https://img.shields.io/github/followers/ag-sanjjeev?label=Follow&style=social)](https://github.com/ag-sanjjeev)
-
-About me:
-
-- 🔭 I’m currently working on ... designing ui kits,
-- 🌱 I’m currently learning ... Angular, C#, ASP.NET, Git and so on.,
-- 👯 I’m looking to collaborate on UI/UX PHP web developement and so on., 
-- 🤔 I’m looking for help with cross-plotform app developement.,
-- 💬 Ask me about ... Front end designing and PHP.,
-- 📫 How to reach me: ...<a href = 'https://www.github.com/ag-sanjjeev'> <img width = '32px' align= 'center' src="/images/github-logo_1920.png"/></a>
-  
-Skills:
-
-<a href='https://github.com/ag-sanjjeev?tab=repositories&q=&type=&language=html5&sort='>
-	<img width ='50px' src ='/images/html5-logo_1920.png'> 
-</a>
-
-<a href='https://github.com/ag-sanjjeev?tab=repositories&q=&type=&language=css3&sort='>
-	<img width ='50px' src ='/images/css3-logo_1920.png'> 
-</a>
-
-<a href='https://github.com/ag-sanjjeev?tab=repositories&q=&type=&language=javascript&sort='>
-	<img width ='50px' src ='/images/javascript-logo_1280.png'> 
-</a>
-
-<a href='https://github.com/ag-sanjjeev?tab=repositories&q=&type=&language=sass&sort='>
-	<img width ='50px' src ='/images/sass-logo.png'> 
-</a>
-
-<a href='https://github.com/ag-sanjjeev?tab=repositories&q=&type=&language=bootstrap&sort='>
-	<img width ='50px' src ='/images/bootstrap-logo.svg'> 
-</a>
-
-<a href='https://github.com/ag-sanjjeev?tab=repositories&q=&type=&language=jquery&sort='>
-	<img width ='50px' src ='/images/jquery-logo.png'> 
-</a>
-
-<a href='https://github.com/ag-sanjjeev?tab=repositories&q=&type=&language=php&sort='>
-	<img width ='50px' src ='/images/php-logo.svg'> 
-</a>
-
-<a href='https://github.com/ag-sanjjeev?tab=repositories&q=&type=&language=mysql&sort='>
-	<img width ='50px' src ='/images/mysql-logo.png'> 
-</a>
-
-<a href='https://github.com/ag-sanjjeev'>
-	<img width ='50px' src ='/images/git-logo.png'> 
-</a>
+<h3 align="center"><strong><i>A passionate PHP developer and Front-end designer from India.</i></strong></h3>
 
 
-<br>
+## About Me
+I'm a PHP web developer and Front-end designer with more than `3 Years` experience. I'm currently working as freelancer, If you could wish to work for your project and I'm ready to work with you. Please, be reach out to me about the projects.
 
 
-[![Sanjjeev's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ag-sanjjeev&theme=light)](https://github.com/ag-sanjjeev/)
+## Skills
+Hands-on experience in followings:
+<br />
+`HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Jquery`
 
-| ![Sanjjeev's github stats](https://github-readme-stats.vercel.app/api?username=ag-sanjjeev&show_icons=true&theme=light) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ag-sanjjeev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=light) |
-| --- | --- |
-| ![Sanjjeev GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ag-sanjjeev&theme=lighj)
-| ![Top Programmings](https://github-readme-stats.vercel.app/api/top-langs/?username=ag-sanjjeev&theme=light) |
+## Other Common Github Profile Sections
+ - I'm currently doing `freelancing`
 
+ - I'm currently learning `Sass, Laravel`
+
+ - I'm looking to collaborate on `PHP web development`
+
+ - I'm looking for help with `Laravel Application development`
+
+ - Ask me about `Front-End designing, PHP, MySQL techniques`
+
+ - Reach out to me via email sanjjeevag.aug21@gmail.com
