@@ -13,7 +13,7 @@ Hands-on experience in followings:
 <br />
 `HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Jquery`
 
-## Other Common Github Profile Sections
+## Other Common Things
  - I'm currently doing `freelancing`
 
  - I'm currently learning `Sass, Laravel`
@@ -24,4 +24,4 @@ Hands-on experience in followings:
 
  - Ask me about `Front-End designing, PHP, MySQL techniques`
 
- - Reach out to me via email sanjjeevag.aug21@gmail.com
+ - Reach out to me via (Email)[sanjjeevag.aug21@gmail.com]
