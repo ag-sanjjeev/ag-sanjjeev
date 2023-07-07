@@ -24,6 +24,6 @@ Hands-on experience in followings:
 
  - Ask me about `Front-End designing, PHP, MySQL techniques`
 
- - Reach out to me via [Email](sanjjeevag.aug21@gmail.com)
+ - Reach out to me via sanjjeevag.aug21@gmail.com
 
 *Interact with My Portfolio [Here](https://ag-sanjjeev.github.io/)*
