@@ -5,7 +5,7 @@
 
 
 ## About Me
-I'm a PHP web developer and Front-end designer with more than `3 Years` experience. I'm currently working as freelancer, If you could wish to work for your project and I'm ready to work with you. Please, be reach out to me about the projects.
+I am an enthusiastic programmer who has learned a wider and deeper set of applications in PHP to become a web developer. Currently, I am exploring machine learning, which is subset of AI, using PHP. Additionally, I am capable and rising my skills in front-end design
 
 
 ## Skills
@@ -16,7 +16,7 @@ Hands-on experience in followings:
 ## Other Common Things
  - I'm currently doing `freelancing`
 
- - I'm currently learning `Sass, Laravel`
+ - I'm currently learning `Sass, Laravel, Python, ML`
 
  - I'm looking to collaborate on `PHP web development`
 
