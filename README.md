@@ -1,22 +1,22 @@
 
 <h1 align="center">Hi :), I'm Sanjjeev</h1>
 
-<h3 align="center"><strong><i>A passionate PHP developer and Front-end designer from India.</i></strong></h3>
+<h3 align="center"><strong><i>I'm a PHP developer and Front-end designer from India.</i></strong></h3>
 
 
-## About Me
-I am an enthusiastic programmer who has learned a wider and deeper set of applications in PHP to become a web developer. Currently, I am exploring machine learning, which is subset of AI, using PHP. Additionally, I am capable and rising my skills in front-end design
+## &#9873; About Me
+I'm a self-reliant and passionate person. Who has the skills in PHP to create and handle the web applications. Currently, I'm doing freelancing in PHP web application development. If you could wish to work for your project and I'm ready to work with you. Please reach out to me about the new start...
 
 
-## Skills
+## &#9873; Skills
 Hands-on experience in followings:
 <br />
 `HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Jquery`
 
-## Other Common Things
+## &#9873; Other Common Things
  - I'm currently doing `freelancing`
 
- - I'm currently learning `Sass, Laravel, Python, ML`
+ - I'm currently learning `Sass, Laravel, Python`
 
  - I'm looking to collaborate on `PHP web development`
 
