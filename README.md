@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi :), I'm Sanjjeev</h1>
 
-<h3 align="center"><strong><i>I'm a PHP developer and Front-end designer from India.</i></strong></h3>
+<h3 align="center"><strong><i>I'm a PHP Web Application Developer from India.</i></strong></h3>
 
 
 ## &#9873; About Me
-I'm a self-reliant and passionate person. Who has the skills in PHP to create and handle the web applications. Currently, I'm doing freelancing in PHP web application development. If you could wish to work for your project and I'm ready to work with you. Please reach out to me about the new start...
+I'm a self-reliant and passionate person. Who has the skills in Front-End Development and PHP to create and handle the web applications. Currently, I'm doing freelancing in PHP web application development. If you could wish to work for your project and I'm ready to work with you. Please reach out to me about the new start...
 
 
 ## &#9873; Skills
@@ -22,8 +22,8 @@ Hands-on experience in followings:
 
  - I'm looking for help with `Laravel Application development`
 
- - Ask me about `Front-End designing, PHP, MySQL techniques`
+ - Ask me about `Front-End development, PHP, MySQL`
 
- - Reach out to me via social_text
+ - Reach out to me via [E-Mail](mailto:social_text)
 
-*Interact with My Portfolio [Here](https://ag-sanjjeev.github.io/)*
+*Interact with My Portfolio __[`Here`](https://ag-sanjjeev.github.io/)__*
