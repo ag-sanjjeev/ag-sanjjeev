@@ -48,7 +48,7 @@ I'm familiar with web technologies and hands-on experience:\
 - [app-url-validator](https://github.com/ag-sanjjeev/app-url-validator)
 
 ##### &#10022; Exclusive Projects
-- [passionate-php-framework](https://github.com/ag-sanjjeev/passionate-php-framework)
+- [passionate-php-framework](https://github.com/ag-sanjjeev/Passionate-PHP-MVC-Framework)
 - [laravel-crud-sample](https://github.com/ag-sanjjeev/laravel-crud-sample)
 - [simple-php-crud-1](https://github.com/ag-sanjjeev/simple-php-crud-1)
 
