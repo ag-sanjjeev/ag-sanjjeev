@@ -59,10 +59,11 @@ I'm familiar with web technologies and hands-on experience:\
 - [HTML Canvas Reference](https://github.com/ag-sanjjeev/html-canvas-reference)
 - [PHP Notes](https://github.com/ag-sanjjeev/PHP-Notes)
 - [MySQL Notes](https://github.com/ag-sanjjeev/mysql-notes)
+- [Sass Notes](https://github.com/ag-sanjjeev/Sass-Notes)
 - [Bootstrap Notes](https://github.com/ag-sanjjeev/Bootstrap-Notes)
 - [JQuery Notes](https://github.com/ag-sanjjeev/JQuery-Notes)
 - [Laravel Notes](https://github.com/ag-sanjjeev/laravel-notes)
-- [Git Notes](#-git-notes)
+- [Git Commands](#-git-commands)
 
 ##### &#10022; UI Designs
 - [ui-card-animated-border](https://github.com/ag-sanjjeev/ui-card-animated-border)
