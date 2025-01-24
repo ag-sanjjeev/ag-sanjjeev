@@ -39,6 +39,7 @@ I'm familiar with web technologies and hands-on experience:\
 ##### &#10022; Applications
 - [app-audio-visualizer](https://github.com/ag-sanjjeev/app-audio-visualizer)
 - [app-canvas-text-animation](https://github.com/ag-sanjjeev/app-canvas-text-animation)
+- [app-digital-clock-js](https://github.com/ag-sanjjeev/app-digital-clock-js)
 - [app-number2words-in-tamil](https://github.com/ag-sanjjeev/app-number2words-in-tamil)
 - [app-php-billing](https://github.com/ag-sanjjeev/app-php-billing)
 - [app-solution-for-worries](https://github.com/ag-sanjjeev/app-solution-for-worries)
