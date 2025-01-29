@@ -40,6 +40,7 @@ I'm familiar with web technologies and hands-on experience:\
 - [app-audio-visualizer](https://github.com/ag-sanjjeev/app-audio-visualizer)
 - [app-canvas-text-animation](https://github.com/ag-sanjjeev/app-canvas-text-animation)
 - [app-digital-clock-js](https://github.com/ag-sanjjeev/app-digital-clock-js)
+- [app-dummy-placeholder-image-generator-js](https://github.com/ag-sanjjeev/app-dummy-placeholder-image-generator-js)
 - [app-number2words-in-tamil](https://github.com/ag-sanjjeev/app-number2words-in-tamil)
 - [app-php-billing](https://github.com/ag-sanjjeev/app-php-billing)
 - [app-solution-for-worries](https://github.com/ag-sanjjeev/app-solution-for-worries)
@@ -64,9 +65,12 @@ I'm familiar with web technologies and hands-on experience:\
 - [Bootstrap Notes](https://github.com/ag-sanjjeev/Bootstrap-Notes)
 - [JQuery Notes](https://github.com/ag-sanjjeev/JQuery-Notes)
 - [Laravel Notes](https://github.com/ag-sanjjeev/laravel-notes)
-- [Git Commands](#-git-commands)
+- [Git Commands](https://github.com/ag-sanjjeev/Git-Commands)
+- [ffmpeg-commands](https://github.com/ag-sanjjeev/ffmpeg-commands)
 
 ##### &#10022; UI Designs
+- [ui-beautiful-comments](https://github.com/ag-sanjjeev/ui-beautiful-comments)
+- [ui-background-gradient-animation](https://github.com/ag-sanjjeev/ui-background-gradient-animation)
 - [ui-card-animated-border](https://github.com/ag-sanjjeev/ui-card-animated-border)
 - [ui-card-glass-morphism](https://github.com/ag-sanjjeev/ui-card-glass-morphism)
 - [ui-card-glass-panel](https://github.com/ag-sanjjeev/ui-card-glass-panel)
